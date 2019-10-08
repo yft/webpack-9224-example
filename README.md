@@ -1,5 +1,7 @@
 # test-split-chunk
 
+Example for [webpack-issue#9224-MiniCssExtractPlugin-Extracting all CSS in a single file](https://github.com/webpack/webpack/issues/9224)
+
 ## Project setup
 ```
 npm install
